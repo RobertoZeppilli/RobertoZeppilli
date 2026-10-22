@@ -68,7 +68,7 @@ the agent works inside them instead of around them.
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
   <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query">
   <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat-square&logo=redux&logoColor=A47BE0" alt="Redux Toolkit">
-  <img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="Zustand">
+  <img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand">
   <img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL">
   <img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=6B93DD" alt="Zod">
 </p>
