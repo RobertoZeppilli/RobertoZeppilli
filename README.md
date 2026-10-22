@@ -29,7 +29,6 @@ the agent works inside them instead of around them.
 
 - Building **Verdict**, which reads release notes so you do not have to
 - Keeping **fotosottocasa.com** and **calibrodigitale.com** alive in production
-- Finding out how far a scroll-driven 3D site can go with React Three Fiber and GSAP
 
 ---
 
@@ -79,8 +78,6 @@ the agent works inside them instead of around them.
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Sass-0D1117?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass">
   <img src="https://img.shields.io/badge/Motion-0D1117?style=flat-square&logo=framer&logoColor=white" alt="Motion">
-  <img src="https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP">
-  <img src="https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
 </p>
 
