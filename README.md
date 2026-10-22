@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://robertoz.com"><img src="https://img.shields.io/badge/robertoz.com-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.calibrodigitale.com"><img src="https://img.shields.io/badge/calibrodigitale.com-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Calibro Digitale"></a>
-  <a href="https://www.linkedin.com/in/roberto-zeppilli-6594b4218/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/roberto-zeppilli-6594b4218/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"></a>
   <a href="mailto:robertozeppilli@proton.me"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=protonmail&logoColor=8B89CC" alt="Email"></a>
   <a href="https://www.npmjs.com/package/@robzepdev/react-resize-sentinel"><img src="https://img.shields.io/npm/v/@robzepdev/react-resize-sentinel?style=flat-square&logo=npm&logoColor=CB3837&label=npm&color=0D1117" alt="npm version"></a>
 </p>
@@ -56,21 +56,21 @@ the agent works inside them instead of around them.
   <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=A6ADE8" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel">
 </p>
 
 **Data and state**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=6E9BE8" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase">
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
   <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query">
-  <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux Toolkit">
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat-square&logo=redux&logoColor=A47BE0" alt="Redux Toolkit">
   <img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="Zustand">
   <img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod">
+  <img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=6B93DD" alt="Zod">
 </p>
 
 **Interface**
