@@ -9,7 +9,7 @@ products with Next.js 16 and React 19, and building with coding agents as a real
 part of the toolchain (Claude Code, MCP servers, structured LLM output) instead of
 as autocomplete.
 
-[robertoz.com](https://robertoz.com) · [LinkedIn](https://www.linkedin.com/in/roberto-zeppilli-6594b4218/) · robertozeppilli@proton.me
+[robertoz.com](https://robertoz.com) · [calibrodigitale.com](https://calibrodigitale.com) · robertozeppilli@proton.me
 
 ---
 
