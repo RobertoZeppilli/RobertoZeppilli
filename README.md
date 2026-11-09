@@ -1,15 +1,16 @@
 <h1 align="center">Roberto Zeppilli</h1>
 
 <p align="center">
-  <b>I build React interfaces that stay fast under real load.</b><br>
-  Frontend developer, 3+ years in React and TypeScript. Latina / Rome, Italy.
+  <b>I build AI automations and integrations, and the Next.js products around them.</b><br>
+  Developer, 4+ years in React and TypeScript. Claude · OpenAI · n8n. Latina / Rome, Italy.
 </p>
 
 <p align="center">
   <a target="_blank" href="https://www.calibrodigitale.com"><img src="https://img.shields.io/badge/calibrodigitale.com-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Calibro Digitale"></a>
   <a target="_blank" href="https://www.linkedin.com/in/roberto-zeppilli-6594b4218/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzU4QTZGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
   <a target="_blank" href="mailto:robertozeppilli@proton.me"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=protonmail&logoColor=8B89CC" alt="Email"></a>
-  <a target="_blank" href="https://www.npmjs.com/package/@robzepdev/react-resize-sentinel"><img src="https://img.shields.io/npm/v/@robzepdev/react-resize-sentinel?style=flat-square&logo=npm&logoColor=CB3837&label=npm&color=0D1117" alt="npm version"></a>
+  <a target="_blank" href="https://www.upwork.com/freelancers/~0114b87de9f91cc984"><img src="https://img.shields.io/badge/Upwork-0D1117?style=flat-square&logo=upwork&logoColor=6FDA44" alt="Upwork"></a>
+<a target="_blank" href="https://www.npmjs.com/package/@robzepdev/react-resize-sentinel"><img src="https://img.shields.io/npm/v/@robzepdev/react-resize-sentinel?style=flat-square&logo=npm&logoColor=CB3837&label=npm&color=0D1117" alt="npm version"></a>
 </p>
 
 ---
@@ -19,15 +20,17 @@ actually use: a page that loads before they get bored, a button that does what i
 an error that explains itself. I take features from the Figma file to the production
 deploy and own them end to end, the database behind them included.
 
-Lately the work splits in two directions that keep feeding each other. On one side,
-products built with Next.js 16 and React 19. On the other, coding agents as a real part
-of the toolchain, Claude Code and MCP servers, with the project's rules written down so
-the agent works inside them instead of around them.
+These days most of my work sits where AI meets real business processes: LLM features
+that cite their sources, agents and automated workflows (n8n, Zapier, custom APIs) wired
+into the tools a team already uses, and the Next.js interface on top when a workflow needs
+one. Coding agents are also part of my own toolchain, Claude Code and MCP servers, with the
+project's rules written down so the agent works inside them instead of around them.
 
 ### Right now
 
 - Building **Verdict**, which reads release notes so you do not have to
 - Keeping **fotosottocasa.com** and **calibrodigitale.com** alive in production
+- Taking on **AI automation and integration** projects, [on Upwork](https://www.upwork.com/freelancers/~0114b87de9f91cc984) or by email
 
 ---
 
@@ -158,7 +161,7 @@ architecture and cut LCP by more than 25%.
 ---
 
 <p align="center">
-  <b>Open to work.</b><br>
+  <b>Open to work:</b> AI automations, LLM integrations and Next.js products.<br>
   <sub>If you want to see how I think about a product before the first commit, read the
   <code>CONTEXT.md</code> and the ADRs in <a target="_blank" href="https://github.com/RobertoZeppilli/release-tracker">release-tracker</a>.</sub>
 </p>
