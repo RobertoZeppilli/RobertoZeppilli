@@ -152,6 +152,7 @@ architecture and cut LCP by more than 25%.
 
 | | | |
 |---|---|---|
+| **[Elements of AI](https://certificates.mooc.fi/validate/i2ljhwwy0k)** | MinnaLearn | AI Fundamentals |
 | **[Claude Code 101](https://verify.skilljar.com/c/qdp2mx9fnbja)** | Anthropic Academy | explore, plan, code, commit |
 | **Total TypeScript** | Matt Pocock | advanced types and generics |
 | **Next.js by Vercel** | Vercel | App Router and SSR optimization |
