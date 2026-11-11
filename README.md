@@ -38,7 +38,7 @@ project's rules written down so the agent works inside them instead of around th
 
 | | What it is | Built with |
 |---|---|---|
-| **[Verdict](https://release-tracker-drab.vercel.app)**<br><sub>[source](https://github.com/RobertoZeppilli/release-tracker)</sub> | Follows the releases of a curated catalog of languages and frameworks and turns their release notes into structured summaries: breaking changes, migration steps, and a plain *action required* or *safe to upgrade* verdict. GitHub Watch tells you that a release exists. This tells you what it changes for you. | Next.js · Supabase · Anthropic SDK · TanStack Query · Zod · Playwright |
+| **[Verdict](https://verdict-tracker.vercel.app)**<br><sub>[source](https://github.com/RobertoZeppilli/verdict-tracker)</sub> | Follows the releases of a curated catalog of languages and frameworks and turns their release notes into structured summaries: breaking changes, migration steps, and a plain *action required* or *safe to upgrade* verdict. GitHub Watch tells you that a release exists. This tells you what it changes for you. | Next.js · Supabase · Anthropic SDK · TanStack Query · Zod · Playwright |
 | **[fotosottocasa.com](https://fotosottocasa.com)** | A photography portfolio where the content is MDX compiled by Velite and the images live in Cloudinary, so publishing a photo is one command and a push. Live. | Next.js · Velite · Cloudinary · Motion |
 | **[@robzepdev/react-resize-sentinel](https://www.npmjs.com/package/@robzepdev/react-resize-sentinel)** | A `ResizeObserver` hook under 1.2 kB with zero dependencies. One single observer for the whole application instead of one per component, and a re-render only when a dimension actually changed. | TypeScript · tsup · Vitest |
 | **[Passkey authentication](https://authentication-smoky-psi.vercel.app/)** | Passwordless sign-in on WebAuthn: registering a credential, revoking it, holding the session. The failure paths are tested, not assumed. | Next.js 16 · SimpleWebAuthn · Drizzle · Neon · iron-session |
@@ -164,5 +164,5 @@ architecture and cut LCP by more than 25%.
 <p align="center">
   <b>Open to work:</b> AI automations, LLM integrations and Next.js products.<br>
   <sub>If you want to see how I think about a product before the first commit, read the
-  <code>CONTEXT.md</code> and the ADRs in <a target="_blank" href="https://github.com/RobertoZeppilli/release-tracker">release-tracker</a>.</sub>
+  <code>CONTEXT.md</code> and the ADRs in <a target="_blank" href="https://github.com/RobertoZeppilli/verdict-tracker">verdict-tracker</a>.</sub>
 </p>
