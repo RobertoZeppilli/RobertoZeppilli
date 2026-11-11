@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>I build AI automations and integrations, and the Next.js products around them.</b><br>
-  Web Developer @CalibroDigitale, 4+ years in React and TypeScript. Claude · OpenAI · n8n. Latina / Rome, Italy.
+  Web Developer @Calibro Digitale, 4+ years in React and TypeScript. Claude · OpenAI · n8n. Latina / Rome, Italy.
 </p>
 
 <p align="center">
