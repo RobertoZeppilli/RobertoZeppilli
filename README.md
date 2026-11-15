@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>I build AI automations and integrations, and the Next.js products around them.</b><br>
-  Web Developer @Calibro Digitale, 4+ years in React and TypeScript. Claude · OpenAI · n8n. Latina / Rome, Italy.
+  Web Developer · Founder of Calibro Digitale · 4+ years building React and TypeScript products.<br>
+  Claude · OpenAI · n8n. Latina / Rome, Italy.
 </p>
 
 <p align="center">
@@ -10,7 +11,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/roberto-zeppilli-6594b4218/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzU4QTZGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
   <a target="_blank" href="mailto:robertozeppilli@proton.me"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=protonmail&logoColor=8B89CC" alt="Email"></a>
   <a target="_blank" href="https://www.upwork.com/freelancers/~0114b87de9f91cc984"><img src="https://img.shields.io/badge/Upwork-0D1117?style=flat-square&logo=upwork&logoColor=6FDA44" alt="Upwork"></a>
-<a target="_blank" href="https://www.npmjs.com/package/@robzepdev/react-resize-sentinel"><img src="https://img.shields.io/npm/v/@robzepdev/react-resize-sentinel?style=flat-square&logo=npm&logoColor=CB3837&label=npm&color=0D1117" alt="npm version"></a>
+  <a target="_blank" href="https://www.npmjs.com/package/@robzepdev/react-resize-sentinel"><img src="https://img.shields.io/npm/v/@robzepdev/react-resize-sentinel?style=flat-square&logo=npm&logoColor=CB3837&label=npm&color=0D1117" alt="npm version"></a>
 </p>
 
 ---
@@ -23,14 +24,18 @@ deploy and own them end to end, the database behind them included.
 These days most of my work sits where AI meets real business processes: LLM features
 that cite their sources, agents and automated workflows (n8n, Zapier, custom APIs) wired
 into the tools a team already uses, and the Next.js interface on top when a workflow needs
-one. Coding agents are also part of my own toolchain, Claude Code and MCP servers, with the
-project's rules written down so the agent works inside them instead of around them.
+one.
+
+Coding agents are part of my toolchain: I use Claude Code with structured skills,
+project rules, verification hooks and MCP servers, so the agent works inside the
+project’s constraints instead of around them.
 
 ### Right now
 
 - Building **Verdict**, which reads release notes so you do not have to
 - Keeping **fotosottocasa.com** and **calibrodigitale.com** alive in production
-- Taking on **AI automation and integration** projects, [on Upwork](https://www.upwork.com/freelancers/~0114b87de9f91cc984) or by email
+- Available for **AI automation, LLM integration and Next.js** projects:
+  [on Upwork](https://www.upwork.com/freelancers/~0114b87de9f91cc984) or by email
 
 ---
 
@@ -56,8 +61,6 @@ project's rules written down so the agent works inside them instead of around th
   <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=A6ADE8" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel">
 </p>
 
 **Data and state**
@@ -77,6 +80,7 @@ project's rules written down so the agent works inside them instead of around th
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/shadcn/ui-0D1117?style=flat-square" alt="shadcn/ui">
   <img src="https://img.shields.io/badge/Sass-0D1117?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass">
   <img src="https://img.shields.io/badge/Motion-0D1117?style=flat-square&logo=framer&logoColor=white" alt="Motion">
   <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
@@ -104,26 +108,33 @@ project's rules written down so the agent works inside them instead of around th
 
 ---
 
-## How I work
+# How I work
 
-**The domain gets a vocabulary before it gets code.** Every serious project carries a
-`CONTEXT.md` listing the words the product is allowed to use, so the interface, the
-database and the conversation call the same thing by the same name.
+**I build products around a shared vocabulary.** Before writing code, I work through a
+structured grilling process that establishes the domain, the users, the constraints and
+the decisions that matter. The resulting glossary and project documentation keep product,
+interface, database and conversations using the same words for the same things.
 
-**Decisions that are hard to undo get written down.** Short ADRs in `docs/adr/`, with the
-options I rejected and the reason. Future me is a different developer.
+**I document decisions that are hard to undo.** Short ADRs record the chosen approach,
+the alternatives considered and the reasons behind each decision. Future me is a different
+developer.
 
-**Tests where a mistake would stay silent.** Vitest for units and integration, Playwright
-end to end, typed dictionaries that refuse an incomplete translation.
+**I test where mistakes would otherwise remain invisible.** Vitest for units and integration,
+Playwright for end-to-end flows, and typed dictionaries that reject incomplete translations.
 
-**No templates.** Runtime efficiency, accessible interfaces, plain web standards.
-Performance is a number I measured, not an adjective I used.
+**I favour clarity over templates.** Runtime efficiency, accessible interfaces and plain web
+standards come first. Performance is something I measure, not an adjective I use.
 
-**Agents, with the rules kept in the repository.** Reusable skills, lint pipelines and
-plans live in the project, so an agent works inside its constraints instead of inventing
-its own.
+**I work with an AI development harness.** I use Claude Code with Matt Pocock’s skills as the
+backbone of my senior full-stack workflow: grilling, prototyping, specification, ticketing,
+implementation, testing, browser verification and code review. The harness turns a brief into
+approved decisions, a plan and incremental, verifiable slices of work.
 
-Italian and English, in code and with clients.
+**The harness lives in the repository.** Reusable skills, project rules, lint pipelines,
+verification hooks, glossaries, ADRs and plans are versioned with the code, so AI agents work
+within explicit constraints rather than inventing their own.
+
+**I work in Italian and English**, both in code and with clients.
 
 ---
 
@@ -162,6 +173,7 @@ architecture and cut LCP by more than 25%.
 
 <p align="center">
   <b>Open to work:</b> AI automations, LLM integrations and Next.js products.<br>
-  <sub>If you want to see how I think about a product before the first commit, read the
-  <code>CONTEXT.md</code> and the ADRs in <a target="_blank" href="https://github.com/RobertoZeppilli/verdict-tracker">verdict-tracker</a>.</sub>
+  <sub>If you want to see how I approach a product before the first commit, explore the
+  repository, documentation and ADRs in
+  <a target="_blank" href="https://github.com/RobertoZeppilli/verdict-tracker">verdict-tracker</a>.</sub>
 </p>
