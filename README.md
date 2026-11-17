@@ -1,52 +1,65 @@
 <h1 align="center">Roberto Zeppilli</h1>
 
 <p align="center">
-  <b>I build AI automations and integrations, and the Next.js products around them.</b><br>
-  Web Developer · Founder of Calibro Digitale · 4+ years building React and TypeScript products.<br>
-  Claude · OpenAI · n8n. Latina / Rome, Italy.
+  <b>Frontend contractor for product teams and agencies.</b><br>
+  React, Next.js and TypeScript, including the UI for AI features: chat, streaming, agents.<br>
+  Shipping frontend to production since 2022. Latina, Italy, and remote.
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://www.calibrodigitale.com"><img src="https://img.shields.io/badge/calibrodigitale.com-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Calibro Digitale"></a>
+  <a target="_blank" href="https://robertoz.com"><img src="https://img.shields.io/badge/robertoz.com-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="robertoz.com"></a>
+  <a target="_blank" href="https://cal.com/robertozeppilli/30min"><img src="https://img.shields.io/badge/Book_30_minutes-0D1117?style=flat-square&logo=caldotcom&logoColor=white" alt="Book a 30 minute call"></a>
   <a target="_blank" href="https://www.linkedin.com/in/roberto-zeppilli-6594b4218/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzU4QTZGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
-  <a target="_blank" href="mailto:robertozeppilli@proton.me"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=protonmail&logoColor=8B89CC" alt="Email"></a>
-  <a target="_blank" href="https://www.upwork.com/freelancers/~0114b87de9f91cc984"><img src="https://img.shields.io/badge/Upwork-0D1117?style=flat-square&logo=upwork&logoColor=6FDA44" alt="Upwork"></a>
-  <a target="_blank" href="https://www.npmjs.com/package/@robzepdev/react-resize-sentinel"><img src="https://img.shields.io/npm/v/@robzepdev/react-resize-sentinel?style=flat-square&logo=npm&logoColor=CB3837&label=npm&color=0D1117" alt="npm version"></a>
+  <a target="_blank" href="mailto:robzepdev@proton.me"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=protonmail&logoColor=8B89CC" alt="Email"></a>
 </p>
 
 ---
 
 I like the part of this job where a vague idea turns into something a person can
 actually use: a page that loads before they get bored, a button that does what it says,
-an error that explains itself. I take features from the Figma file to the production
-deploy and own them end to end, the database behind them included.
+an error that explains itself. I join a team by the day or by the month and take
+features from the Figma file to production, inside your process and your reviews.
 
-These days most of my work sits where AI meets real business processes: LLM features
-that cite their sources, agents and automated workflows (n8n, Zapier, custom APIs) wired
-into the tools a team already uses, and the Next.js interface on top when a workflow needs
-one.
-
-Coding agents are part of my toolchain: I use Claude Code with structured skills,
-project rules, verification hooks and MCP servers, so the agent works inside the
-project’s constraints instead of around them.
+Coding agents are part of how I work, and the work is in the harness they run in:
+roles, permissions, proofs and rules written into the repository.
 
 ### Right now
 
+- Open to frontend work with product teams and agencies, by the day or by the month
 - Building **Verdict**, which reads release notes so you do not have to
-- Keeping **fotosottocasa.com** and **calibrodigitale.com** alive in production
-- Available for **AI automation, LLM integration and Next.js** projects:
-  [on Upwork](https://www.upwork.com/freelancers/~0114b87de9f91cc984) or by email
 
 ---
 
-## Things I have built
+## What I have built
 
-| | What it is | Built with |
-|---|---|---|
-| **[Verdict](https://verdict-tracker.vercel.app)**<br><sub>[source](https://github.com/RobertoZeppilli/verdict-tracker)</sub> | Open-source, local tool that reads release notes from a curated catalog of languages and frameworks and turns them into structured summaries: breaking changes, migration steps, and a clear *action required* or *safe to upgrade* verdict. Runs with your own Anthropic API key, with Ollama, or with free API keys. Sends notifications and writes the most important changelogs into your Obsidian vault. | Next.js · SQLite · Anthropic SDK · Ollama · Obsidian · TanStack Query · Zod · Playwright |
-| **[fotosottocasa.com](https://fotosottocasa.com)** | A photography portfolio where the content is MDX compiled by Velite and the images live in Cloudinary, so publishing a photo is one command and a push. Live. | Next.js · Velite · Cloudinary · Motion |
-| **[@robzepdev/react-resize-sentinel](https://www.npmjs.com/package/@robzepdev/react-resize-sentinel)** | A `ResizeObserver` hook under 1.2 kB with zero dependencies. One single observer for the whole application instead of one per component, and a re-render only when a dimension actually changed. | TypeScript · tsup · Vitest |
-| **[calibrodigitale.com](https://www.calibrodigitale.com)** | My own site, where I offer my services: websites with custom CRMs, apps, landing pages, automations for small businesses, AI integration into existing projects, and frontend and AI consulting. Bilingual Italian/English. | Next.js · Tailwind v4 · Motion · Lenis |
+### [Verdict](https://verdict-tracker.vercel.app)
+
+<p>
+  <a target="_blank" href="https://verdict-tracker.vercel.app"><img src="https://img.shields.io/badge/live-verdict--tracker.vercel.app-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Live site"></a>
+  <a target="_blank" href="https://github.com/RobertoZeppilli/verdict-tracker"><img src="https://img.shields.io/badge/source-GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source on GitHub"></a>
+  <a target="_blank" href="https://robertoz.com/en/work/verdict"><img src="https://img.shields.io/badge/case_study-robertoz.com-0D1117?style=flat-square&logoColor=white" alt="Case study"></a>
+</p>
+
+An open source tool that follows the releases of languages, frameworks and libraries.
+For each release it says whether upgrading needs action, what breaks and how to migrate,
+and every claim points at the line of the release notes it was read from. GitHub Watch
+tells you that a release exists. Verdict tells you what it changes for you.
+
+- **Runs on your computer.** Your own Anthropic key, the data in a SQLite file, the
+  technologies you follow in a JSON file you can copy to another machine.
+- **No invented citations.** Claude Haiku 5.5 answers with an enforced schema, Zod
+  validates it, and every citation is looked up word for word in the notes. If it is not
+  there, it is dropped.
+- **The model was chosen with an evaluation set.** 14 real releases with hand-written
+  expectations: 14 correct verdicts out of 14, at $0.0097 per run.
+- **Tells you when it matters.** A release that needs action can reach Slack through
+  a webhook, from the app or from `verdict-tracker sync --notify`.
+- **Nothing gets truncated.** Notes too long to summarize safely fail with their reason,
+  and the page shows the full notes instead of a partial summary.
+- **2,275 public pages as a static site,** an interface that reads like compiler output,
+  and 855 Vitest plus 268 Playwright tests, axe accessibility checks included.
+
+<sub>Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · shadcn/ui · TanStack Query · Zod · SQLite · Anthropic SDK · Vitest · Playwright · GitHub Actions</sub>
 
 ---
 
@@ -56,23 +69,17 @@ project’s constraints instead of around them.
 
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
 </p>
 
 **Data and state**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=6E9BE8" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase">
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query">
-  <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat-square&logo=redux&logoColor=A47BE0" alt="Redux Toolkit">
+  <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=tanstack&logoColor=FF4154" alt="TanStack Query">
   <img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand">
-  <img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat-square&logo=redux&logoColor=A47BE0" alt="Redux Toolkit">
   <img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=6B93DD" alt="Zod">
 </p>
 
@@ -80,61 +87,54 @@ project’s constraints instead of around them.
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/shadcn/ui-0D1117?style=flat-square" alt="shadcn/ui">
-  <img src="https://img.shields.io/badge/Sass-0D1117?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui">
   <img src="https://img.shields.io/badge/Motion-0D1117?style=flat-square&logo=framer&logoColor=white" alt="Motion">
   <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
 </p>
 
-**AI**
+**Testing**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Anthropic_API-0D1117?style=flat-square&logo=anthropic&logoColor=D97757" alt="Anthropic API">
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/MCP_servers-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP servers">
+  <img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest">
+  <img src="https://img.shields.io/badge/Playwright-0D1117?style=flat-square" alt="Playwright">
 </p>
 
 **Machinery**
 
 <p>
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
-  <img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest">
-  <img src="https://img.shields.io/badge/Playwright-0D1117?style=flat-square" alt="Playwright">
   <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/npm-0D1117?style=flat-square&logo=npm&logoColor=CB3837" alt="npm">
 </p>
 
 ---
 
-# How I work
+## How I work
 
-**I build products around a shared vocabulary.** Before writing code, I work through a
-structured grilling process that establishes the domain, the users, the constraints and
-the decisions that matter. The resulting glossary and project documentation keep product,
-interface, database and conversations using the same words for the same things.
+**Decisions close before the code.** A new feature starts with questions about the plan
+until no choice is left open. What comes out is a spec, split into small tickets that
+can each be proven on their own.
 
-**I document decisions that are hard to undo.** Short ADRs record the chosen approach,
-the alternatives considered and the reasons behind each decision. Future me is a different
-developer.
+**Every ticket says how to prove it is done.** The test that has to pass, the
+screenshots and at which widths, the expected output of a command. If the proofs cannot
+be written, the ticket is still too vague.
 
-**I test where mistakes would otherwise remain invisible.** Vitest for units and integration,
-Playwright for end-to-end flows, and typed dictionaries that reject incomplete translations.
+**The agents work inside a harness.** Each one has its own role and permissions. The one
+that writes the code is not the one that reviews it, and new dependencies, the database,
+secrets and pushes stay with me. A ticket that still lacks its proofs after three rounds
+stops and comes back to me. When a mistake repeats, it becomes a rule written into the
+repository.
 
-**I favour clarity over templates.** Runtime efficiency, accessible interfaces and plain web
-standards come first. Performance is something I measure, not an adjective I use.
+**The domain gets a vocabulary before it gets code.** A `GLOSSARY.md` lists the words
+the product is allowed to use, and decisions that are hard to undo go into short ADRs
+with the options I rejected and why. Agents read both and never change them.
 
-**I work with an AI development harness.** I use Claude Code with Matt Pocock’s skills as the
-backbone of my senior full-stack workflow: grilling, prototyping, specification, ticketing,
-implementation, testing, browser verification and code review. The harness turns a brief into
-approved decisions, a plan and incremental, verifiable slices of work.
+**Architecture, design and the merge stay with me.** I read the PR before merging it
+even when the proofs are green, and the merge to main, which is the deploy, is mine.
 
-**The harness lives in the repository.** Reusable skills, project rules, lint pipelines,
-verification hooks, glossaries, ADRs and plans are versioned with the code, so AI agents work
-within explicit constraints rather than inventing their own.
-
-**I work in Italian and English**, both in code and with clients.
+Italian and English, in code and with clients.
 
 ---
 
@@ -162,7 +162,7 @@ architecture and cut LCP by more than 25%.
 
 | | | |
 |---|---|---|
-| **[Elements of AI](https://certificates.mooc.fi/validate/i2ljhwwy0k)** | MinnaLearn | AI Fundamentals |
+| **[Elements of AI](https://certificates.mooc.fi/validate/i2ljhwwy0k)** | MinnaLearn | AI fundamentals |
 | **[Claude Code 101](https://verify.skilljar.com/c/qdp2mx9fnbja)** | Anthropic Academy | explore, plan, code, commit |
 | **Total TypeScript** | Matt Pocock | advanced types and generics |
 | **Next.js by Vercel** | Vercel | App Router and SSR optimization |
@@ -172,8 +172,9 @@ architecture and cut LCP by more than 25%.
 ---
 
 <p align="center">
-  <b>Open to work:</b> AI automations, LLM integrations and Next.js products.<br>
-  <sub>If you want to see how I approach a product before the first commit, explore the
-  repository, documentation and ADRs in
-  <a target="_blank" href="https://github.com/RobertoZeppilli/verdict-tracker">verdict-tracker</a>.</sub>
+  <b>Need one more frontend developer on the team?</b><br>
+  <a target="_blank" href="https://cal.com/robertozeppilli/30min">Book 30 minutes</a> or write to
+  <a target="_blank" href="mailto:robzepdev@proton.me">robzepdev@proton.me</a>.<br>
+  <sub>To see how I think about a product before the first commit, read the
+  <code>GLOSSARY.md</code> and the ADRs in <a target="_blank" href="https://github.com/RobertoZeppilli/verdict-tracker">verdict-tracker</a>.</sub>
 </p>
