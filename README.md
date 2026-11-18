@@ -1,7 +1,7 @@
 <h1 align="center">Roberto Zeppilli</h1>
 
 <p align="center">
-  <b>Frontend contractor for product teams and agencies.</b><br>
+  <b>Frontend Contractor for product teams and agencies.</b><br>
   React, Next.js and TypeScript, including the UI for AI features: chat, streaming, agents.<br>
   Shipping frontend to production since 2022. Latina, Italy, and remote.
 </p>
